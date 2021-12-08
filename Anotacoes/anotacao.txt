@@ -1,0 +1,2 @@
+o Download realizado do Git: https://git-scm.com/downloads
+o site para acessar o Github: github.com/
